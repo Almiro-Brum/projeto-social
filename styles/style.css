@@ -56,7 +56,7 @@ iframe#tela {
 }
 
 #redes-sociais img:hover {
-    border: solid rgba(255, 255, 255, 0.671);
+    border: solid rgba(173, 28, 28, 0.671);
     transform: translate(-2px, -2px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.671);
     transition: 0.3s;
